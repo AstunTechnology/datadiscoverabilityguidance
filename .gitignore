@@ -1,0 +1,6 @@
+bin
+lib
+docs/build
+pyvenv.cfg
+docs/Makefile
+docs/make.bat
