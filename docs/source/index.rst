@@ -3,8 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Data Discoverability's documentation!
-================================================
+Data Discoverability Guidance
+=============================
+
+Data sharing and metadata creation made easy with GeoNetwork Open Source
+------------------------------------------------------------------------
 
 .. toctree::
    :maxdepth: 2

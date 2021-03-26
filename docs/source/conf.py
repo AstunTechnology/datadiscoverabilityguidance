@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Data Discoverability'
+project = 'Data Discoverability Guidance'
 copyright = '2021, Astun Technology'
 author = 'Astun Technology'
 
