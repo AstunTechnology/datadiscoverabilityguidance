@@ -17,6 +17,7 @@ Data sharing and metadata creation made easy with GeoNetwork Open Source
    requirements
    configuration
    workflow
+   classificationsystems
 
 Indices and tables
 ==================
