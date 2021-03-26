@@ -5,7 +5,9 @@ This is a guide to extending the GeoNetwork Metadata Catalog to meet best practi
 
 The objective is to provide guidance on the configuration changes and additional schema plugins that you'll need for full spatial and non-spatial data discoverability, along with a suggested workflow for metadata creators.
 
-It's an ongoing project by Astun Technology, funded in part by a grant from the Open Data Institute.
+|astun_logo|
+
+It's an ongoing project by Astun Technology, and was funded in part by a grant from the Open Data Institute.
 
 |odi_logo|
 
@@ -14,3 +16,7 @@ The raw files for this documentation are hosted on GitHub at `https://github.com
 
 
 .. |odi_logo| image:: media/ODI-logo.jpg
+	:alt: ODI Logo
+
+.. |astun_logo| image:: media/AstunSmallLogo.png
+	:alt: Astun Logo
