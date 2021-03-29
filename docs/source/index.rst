@@ -18,6 +18,11 @@ Data sharing and metadata creation made easy with GeoNetwork Open Source
    configuration
    workflow
    classificationsystems
+   addingsnippets
+   structureddata
+   publishingandsharing
+   harvesting
+   seo
 
 Indices and tables
 ==================
