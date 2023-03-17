@@ -11,10 +11,10 @@ Navigate to Contribute > Manage Directory
 
 In order to add a new entry:
 
-* click on the |add-entry-button| button
-* select **Create an entry from scratch**
-* in the textbox presented paste the XML snippet from https://github.com/AstunTechnology/geonetwork-snippets/tree/4.2.x/dataquality as needed
-* click on the |import-directory-button| button
+    * click on the |add-entry-button| button
+    * select **Create an entry from scratch**
+    * in the textbox presented paste the XML snippet from https://github.com/AstunTechnology/geonetwork-snippets/tree/4.2.x/dataquality as needed
+    * click on the |import-directory-button| button
 
 
 
