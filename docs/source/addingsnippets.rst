@@ -3,11 +3,14 @@ Adding Snippets
 
 This section will explain how to add snippets from https://github.com/AstunTechnology/geonetwork-snippets to a GeoNetwork 4.2.x catalog.
 
-Login to the catalog (at least Editor privileges are needed in order to be able to access the Manage directory menu) and navigate to Contribute > Manage Directory.
+Add Snippets to Directory
+-------------------------
+
+Login to the catalog as an Administrator and navigate to Contribute > Manage Directory.
 
 |menu-image|
 
-**To add a snippet**
+**Add a snippet**
 
     * click on the |add-entry-button| button
     * select **Create an entry from scratch**
