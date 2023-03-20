@@ -62,10 +62,10 @@ Feature catalogs can be described:
 
 * Log into GeoNetwork as a user with at least Editor priviliges or higher and find the metadata record for your dataset
 * Start an editing session of the record in Default view
-* On the right-hand side click the *Add* button of the *Associated resources* panel
-* Choose *Link to a feature catalog* from the dropdown menu
+* On the right-hand side click the **Add** button of the **Associated resources** panel
+* Choose **Link to a feature catalog** from the dropdown menu
 * In the pop-up window that opens, use the search bar at the top to locate an existing feature catalog or insert a link to a remote catalog
-* Click on the *Link to a feature catalog* button to link the resources
+* Click on the **Link to a feature catalog** button to link the resources
 
 |Associated resources panel|
 
@@ -75,7 +75,7 @@ Associated resources panel showing the dropdown menu options
 
 Link a feature catalog pop-up window
 
-If the steps above have been successful you should see your linked Feature Catalog in the *Associated resources* panel on the right-hand side. Remember to save the changes before closing the window using the buttons at the top of the page.
+If the steps above have been successful you should see your linked Feature Catalog in the **Associated resources** panel on the right-hand side. Remember to save the changes before closing the window using the buttons at the top of the page.
 
 |Linked feature catalog|
 
