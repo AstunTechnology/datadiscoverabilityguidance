@@ -52,9 +52,40 @@ Fill in a description, and choose **Download** from the list of functions. You c
 Creating a Feature Catalog record from your dataset
 ---------------------------------------------------
 
+A feature catalog describes the data model of the dataset with the list of tables, attributes, definitions, list of values, etc.
+
+Feature catalogs can be described:
+* as a document (e.g. PDF or CSV) and linked to the metadata record (see `Linking a document <https://geonetwork-opensource.org/manuals/4.0.x/en/user-guide/associating-resources/linking-online-resources.html#linking-a-document>`__ )
+* as a record and described using the ISO19115-3 standard (replacing ISO19110)
+
+**Link to a Feature Catalog record**
+
+* Log into GeoNetwork as a user with at least Editor priviliges or higher and find the metadata record for your dataset
+* Start an editing session of the record in Default view
+* On the right-hand side click the *Add* button of the *Associated resources* panel
+* Choose *Link to a feature catalog* from the dropdown menu
+* In the pop-up window that opens, use the search bar at the top to locate an existing feature catalog or insert a link to a remote catalog
+* Click on the *Link to a feature catalog* button to link the resources
+
+|Associated resources panel|
+Associated resources panel showing the dropdown menuy options
+
+|Link a feature catalog window|
+Link a feature catalog pop-up window
+
+If the steps above have been successful you should see your linked Feature Catalog in the *Associated resources* panel on the right-hand side. Remember to save the changes before closing the window using the buttons at the top of the page.
+
+|Linked feature catalog|
+Associated resources panel showing a linked feature catalog
 
 
 .. |Create a non-spatial record| image:: media/createnonspatial.png
 	:alt: Create a non-spatial record
 .. |Attach file to record| image:: media/attachfile.png
 	:alt: Attach file to record
+.. |Associated resources panel| image:: media/associatedresources.png
+	:alt: Associated resources panel showing the dropdown menuy options
+.. |Link a feature catalog window| image:: media/linkfeaturecatpopup.png
+	:alt: Link a feature catalog pop-up window
+.. |Linked feature catalog| image::media/linkedfeaturecat.png
+	:alt: Associated resources panel showing a linked feature catalog
