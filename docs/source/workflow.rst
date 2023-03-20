@@ -68,14 +68,17 @@ Feature catalogs can be described:
 * Click on the *Link to a feature catalog* button to link the resources
 
 |Associated resources panel|
-Associated resources panel showing the dropdown menuy options
+
+Associated resources panel showing the dropdown menu options
 
 |Link a feature catalog window|
+
 Link a feature catalog pop-up window
 
 If the steps above have been successful you should see your linked Feature Catalog in the *Associated resources* panel on the right-hand side. Remember to save the changes before closing the window using the buttons at the top of the page.
 
 |Linked feature catalog|
+
 Associated resources panel showing a linked feature catalog
 
 
@@ -87,5 +90,5 @@ Associated resources panel showing a linked feature catalog
 	:alt: Associated resources panel showing the dropdown menuy options
 .. |Link a feature catalog window| image:: media/linkfeaturecatpopup.png
 	:alt: Link a feature catalog pop-up window
-.. |Linked feature catalog| image::media/linkedfeaturecat.png
+.. |Linked feature catalog| image:: media/linkedfeaturecat.png
 	:alt: Associated resources panel showing a linked feature catalog
