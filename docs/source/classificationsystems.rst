@@ -30,7 +30,11 @@ for the language(s) being used- commonly this will be English.
     Changing the **Identifier** value of a category will not change the wording associated with it in the catalog.
 
 
+|Category page|
+
 Further documentation can be found at https://geonetwork-opensource.org/manuals/4.0.x/en/administrator-guide/managing-classification-systems/index.html
 
 .. |Thesaurus page| image:: media/thesauruspage.png
-    :alt: Thesaurus settings page in GeoNetwork 
+    :alt: Thesaurus settings page in GeoNetwork
+.. |Category page| image:: media/categorysettings.png
+    :alt: Category settings page in GeoNetwork
