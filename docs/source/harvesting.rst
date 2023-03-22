@@ -35,16 +35,20 @@ An example setup for harvesting in a dockerised setup
 
 The main configuration options for a directory harvest are:
 * Node name and logo- this is the name of the harvester and a logo
+
     * Note: in order to be able to associate a logo to the harvester, it needs to be pre-loaded into the catalog. This can be done in Admin console > Settings > Logo
+    
 * Group- the group which owns the harvested records
 * User- a user can be picked from the list and will be the owner of the records
 * Schedule- this feature can be enabled or disabled. If enabled, the user can set a recurring harvest
 * Directory- this is the path to the Directory that holds the records
 * Also search in subfolders- if ticked this will point the harvester to any existing subfolders too
 * Action on UUID collision- this dictates what action will be taken if a UUID already exists in the catalog. This can be set to:
+
     * Skip record (default)
     * Overwrite record
     * Create new UUID
+
 * Update catalog record only if file was updated (tickbox)
 * Keep catalog record even if deleted at source (tickbox)
 * Validate records before import- the default option is to accept all metadata without validation
@@ -68,7 +72,9 @@ This option allows users to harvest records from various enpoints like DCAT/rdf 
 
 The main configuration options to set are:
 * Node name and logo- this is the name of the harvester and a logo
+
     * Note: in order to be able to associate a logo to the harvester, it needs to be pre-loaded into the catalog. This can be done in Admin console > Settings > Logo
+
 * Group- the group which owns the harvested records
 * User- a user can be picked from the list and will be the owner of the records
 * Schedule- this feature can be enabled or disabled. If enabled, the user can set a recurring harvest
