@@ -18,7 +18,7 @@ For further information on managing the classification systems please refer to t
 Thesaurus
 ---------
 
-Login in as an administrator, and navigate to Admin Console > Classification systems > Thesaurus
+Login in as an administrator, and navigate to Admin Console > Classification systems > **Thesaurus**
 
 Thesauri in SKOS format (XML or RDF extensions) can be managed or added here. It is also possible to interrogate the existing thesauri loaded into the catalog.
 
@@ -37,7 +37,7 @@ For more information on how to create or manage thesauri please refer to the
 Category
 --------
 
-Login in as an administrator, and visit Admin Console -> Classification systems -> Category
+Login in as an administrator, and visit Admin Console > Classification systems > **Category**
 
 This page will show a list of the available categories as well as give teh option to add more by clicking on the **+ New category** button.
 

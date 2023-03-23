@@ -3,7 +3,7 @@ Harvesting
 
 This section outlines the options available for harvesting spatial and non-spatial metadata from various endpoints.
 
-To set up a new harvester in GeoNetwork 4.2.x login as an Administrator and go to Admin console > Harvesting > Catalog harvesters
+To set up a new harvester in GeoNetwork 4.2.x login as an Administrator and go to Admin console > Harvesting > **Catalog harvesters**
 
 To add a new harvester click on the **Harvest from** dropdown. The available sources are:
 

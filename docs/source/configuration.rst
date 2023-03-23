@@ -4,7 +4,7 @@ Configuration
 You will need to change a number of settings in the administrator panel to get best use out of GeoNetwork. Login in as an administrator, and visit Admin Console > **Settings**.
 
 In the main **Settings** tab, we recommend making changes to the following sections. 
-Note that there are many other options that you can also change, see `the official documentation <https://www.geonetwork-opensource.org/manuals/4.0.x/en/administrator-guide/configuring-the-catalog/index.html>`__ for more information:
+Note that there are many other options that you can also change, see `the official documentation <https://www.geonetwork-opensource.org/manuals/4.0.x/en/administrator-guide/configuring-the-catalog/index.html>`__ for more information.
 
 **Catalog Description**
 
@@ -13,14 +13,14 @@ Note that there are many other options that you can also change, see `the offici
 
 **Catalog Server**
 
-* Change the **Host**, **Preferred Protocol**, **Port** and **Secure Port** to match your install. For example if you access the catalog at the URL https://mygeonetwork.com/geonetwork then you'd set the following:
+* Change the **Host**, **Preferred Protocol**, **Port** and **Secure Port** to match your install. For example if you access the catalog at the URL ``https://mygeonetwork.com/geonetwork`` then you'd set the following:
   
-  * Host: mygeonetwork.com
-  * Preferred Protocol: https
-  * Port: blank
-  * Secure Port: blank
+  * Host: ``mygeonetwork.com``
+  * Preferred Protocol: ``https``
+  * Port: leave blank
+  * Secure Port: leave blank
  
-* For the **Timezone**, set the most appropriate one for you. In the UK this is probably *Europe/London*
+* For the **Timezone**, set the most appropriate one for you. In the UK this is probably ``Europe/London``
 
 **Feedback**
 

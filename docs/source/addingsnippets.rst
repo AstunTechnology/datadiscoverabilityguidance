@@ -7,7 +7,7 @@ If you are using your own catalog, make sure that you have reviewed the instruct
 Add Snippets to Directory
 -------------------------
 
-Login to the catalog as an Administrator and navigate to Contribute > Manage directory.
+Login to the catalog as an Administrator and navigate to Contribute > **Manage directory**.
 
 |menu-image|
 
