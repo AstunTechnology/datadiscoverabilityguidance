@@ -40,9 +40,12 @@ Uploading your dataset
 
 In your non-spatial record, use the **Associated resourcses** wizard in the top right and click **+Add**. From the list of options, choose **Link an online resource**. 
 
-In the **metadata file store** section to the right, click the green **+Choose or drop resource here** button to navigate to your CSV file. Once it is uploaded select it from the list so that some of the options in the boxes on the left are auto-completed for you.
+In the **Metadata file store** section to the right, click the **+Choose or drop resource here** button to navigate to your CSV file. 
+Once it is uploaded, select it from the list so that some of the options on the left (like the URL and Resource name) are auto-completed for you.
 
-Fill in a description, and choose **Download** from the list of functions. You can leave the **Application profile** section blank. Finally click the green **Add online resource** button.
+Fill in a description, and choose **Download** from the list of functions. You can leave the **Application profile** section blank. 
+
+Finally, click the green **Add online resource** button.
 
 |Attach file to record|
 
@@ -69,26 +72,28 @@ Feature catalogs can be described:
 
 |Associated resources panel|
 
-Associated resources panel showing the dropdown menu options
-
 |Link a feature catalog window|
-
-Link a feature catalog pop-up window
 
 If the steps above have been successful you should see your linked Feature Catalog in the **Associated resources** panel on the right-hand side. Remember to save the changes before closing the window using the buttons at the top of the page.
 
 |Linked feature catalog|
-
-Associated resources panel showing a linked feature catalog
 
 
 .. |Create a non-spatial record| image:: media/createnonspatial.png
 	:alt: Create a non-spatial record
 .. |Attach file to record| image:: media/attachfile.png
 	:alt: Attach file to record
-.. |Associated resources panel| image:: media/associatedresources.png
-	:alt: Associated resources panel showing the dropdown menuy options
-.. |Link a feature catalog window| image:: media/linkfeaturecatpopup.png
+.. |Associated resources panel| figure:: media/associatedresources.png
+	:alt: Associated resources panel showing the dropdown menu options
+
+	Associated resources panel showing the dropdown menu options
+
+.. |Link a feature catalog window| figure:: media/linkfeaturecatpopup.png
 	:alt: Link a feature catalog pop-up window
-.. |Linked feature catalog| image:: media/linkedfeaturecat.png
+
+	"Link a feature catalog" pop-up window
+
+.. |Linked feature catalog| figure:: media/linkedfeaturecat.png
 	:alt: Associated resources panel showing a linked feature catalog
+
+	Associated resources panel showing a linked feature catalog
