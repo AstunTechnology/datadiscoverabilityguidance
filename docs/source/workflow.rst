@@ -70,9 +70,15 @@ Feature catalogs can be described:
 * In the pop-up window that opens, use the search bar at the top to locate an existing feature catalog or insert a link to a remote catalog
 * Click on the **Link to a feature catalog** button to link the resources
 
-|Associated resources panel|
+.. figure:: media/associatedresources.png
+	:alt: Associated resources panel showing the dropdown menu options
 
-|Link a feature catalog window|
+	Associated resources panel showing the dropdown menu options
+
+.. figure:: media/linkfeaturecatpopup.png
+	:alt: Link a feature catalog pop-up window
+
+	"Link a feature catalog" pop-up window
 
 If the steps above have been successful you should see your linked Feature Catalog in the **Associated resources** panel on the right-hand side. Remember to save the changes before closing the window using the buttons at the top of the page.
 
@@ -83,15 +89,8 @@ If the steps above have been successful you should see your linked Feature Catal
 	:alt: Create a non-spatial record
 .. |Attach file to record| image:: media/attachfile.png
 	:alt: Attach file to record
-.. |Associated resources panel| figure:: media/associatedresources.png
-	:alt: Associated resources panel showing the dropdown menu options
+.. |Associated resources panel| 
 
-	Associated resources panel showing the dropdown menu options
-
-.. |Link a feature catalog window| figure:: media/linkfeaturecatpopup.png
-	:alt: Link a feature catalog pop-up window
-
-	"Link a feature catalog" pop-up window
 
 .. |Linked feature catalog| figure:: media/linkedfeaturecat.png
 	:alt: Associated resources panel showing a linked feature catalog
