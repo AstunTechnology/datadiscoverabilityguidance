@@ -31,8 +31,11 @@ This option allows users to harvest records from the same server that runs GeoNe
     If you are running GeoNetwork in a dockerised manner you will need to map the local directory to a volume and the path will become the mapped volume path.
     For example if the docker mapping is `./harvester-test:/var/lib/jetty/webapps/geonetwork/harvester-test` then the path that the harvester needs to be pointed at has to be `/var/lib/jetty/webapps/geonetwork/harvester-test` 
 
-|Directory harvesting|
-An example setup for harvesting in a dockerised setup
+.. figure:: media/directoryharvesting.png
+    :alt: GeoNetwork showing an example configuration for Directory harvesting
+
+    An example setup for harvesting in a dockerised setup
+    
 
 The main configuration options for a directory harvest are:
 * Node name and logo- this is the name of the harvester and a logo
@@ -88,25 +91,23 @@ The main configuration options to set are:
 * Category- the category to be allocated to the harvested records
 * Group privileges for the harvested records
 
-|Simple URL harvesting settings- top|
-The top section of the configuration for an example Simple URL harvester
+..  figure:: media/simpleurltop.png
+    :alt: GeoNetwork showing the top section of the configuration for an example Simple URL harvester
 
-|Simple URL harvesting settings- middle|
-The middle section of the configuration for an example Simple URL harvester
+    The top section of the configuration for an example Simple URL harvester
 
-|Simple URL harvesting settings- bottom|
-The bottom section of the configuration for an example Simple URL harvester
+..  figure:: media/simpleurlmiddle.png
+    :alt: GeoNetwork showing the middle section of the configuration for an example Simple URL harvester
+
+    The middle section of the configuration for an example Simple URL harvester
+
+..  figure:: media/simpleurlbottom.png
+    :alt: GeoNetwork showing the bottom section of the configuration for an example Simple URL harvester
+
+    The bottom section of the configuration for an example Simple URL harvester
 
 
 .. |Harvester dropdown| image:: media/harvesterdropdown.png
     :alt: Dropdown menu showing the available harvesting options in GeoNetwork 4.x
-.. |Directory harvesting| image:: media/directoryharvesting.png
-    :alt: GeoNetwork showing an example configuration for Directory harvesting
 .. |Harvester records discrepancy| image:: media/recordsdiscrepancy.png
     :alt: GeoNetwork showing a discrepancy between the actual number of records harvested and the Metadata records tab
-.. |Simple URL harvesting settings- top| image:: media/simpleurltop.png
-    :alt: GeoNetwork showing the top section of the configuration for an example Simple URL harvester
-.. |Simple URL harvesting settings- middle| image:: media/simpleurlmiddle.png
-    :alt: GeoNetwork showing the middle section of the configuration for an example Simple URL harvester
-.. |Simple URL harvesting settings- bottom| image:: media/simpleurlbottom.png
-    :alt: GeoNetwork showing the bottom section of the configuration for an example Simple URL harvester
