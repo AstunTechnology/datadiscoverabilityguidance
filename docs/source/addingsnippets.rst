@@ -11,8 +11,6 @@ Login to the catalog as an Administrator and navigate to Contribute > Manage dir
 
 |menu-image|
 
-**Add a snippet**
-
 To add a snippet to the catalog from the **Manage directory** page:
 
     * click on the |add-entry-button| button
