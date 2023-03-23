@@ -67,6 +67,9 @@ Feature catalogs can be described:
 (see `Linking a document <https://geonetwork-opensource.org/manuals/4.0.x/en/user-guide/associating-resources/linking-online-resources.html#linking-a-document>`__)
 * as a record and described using the ISO19115-3 standard (replacing ISO19110)
 
+.. warning::
+	Users downloading a record will need to download the associated feature catalog (or any associated resources) separately as this is not currently downloaded at the same time by default.
+
 **Creating a link to a Feature Catalog**
 
 * Log into GeoNetwork as a user with Editor priviliges or higher and find the metadata record for your dataset

@@ -1,22 +1,41 @@
 Classification Systems
 ======================
 
-**Thesaurus**
+This section will explain how to add new thesauri to help with UK-specific data sharing as well as how to add custom categories to GeoNetwork.
 
-Login in as an administrator, and visit Admin Console -> Classification systems -> Thesaurus
+A **thesaurus** is a **list of concepts** from a specialized field of knowledge. 
+In a metadata catalog, concepts from a thesaurus can be assigned to a metadata record (as keywords) as a way of associating it with one or more concepts.
 
-This page will show a list of the available thesauri as well as give the option to add more by clicking on the **Add thesaurus** dropdown button.
+GeoNetwork has a concept of **categories** that can be assigned to metadata documents, but these are **not represented in the metadata**. 
+So when the metadata is exported, the category will be lost. 
+
+You can use these categories to separate records into groups, without changing the actual content of the metadata. 
+Categories can also be used to filter search results, or limit the output of a custom CSW endpoint.
+
+For further information on managing the classification systems please refer to the 
+`official GeoNetwork documentation <https://www.geonetwork-opensource.org/manuals/4.0.x/en/administrator-guide/managing-classification-systems/index.html#>__`.
+
+Thesaurus
+---------
+
+Login in as an administrator, and navigate to Admin Console > Classification systems > Thesaurus
+
+Thesauri in SKOS format (XML or RDF extensions) can be managed or added here. It is also possible to interrogate the existing thesauri loaded into the catalog.
 
 |Thesaurus page|
 
-The options to add a thesauri are as follows:
+It is possible to add additional thesauri by clicking the **+Add thesaurus** button. The options are as follows:
 
 * From registry
 * From local file - upload a thesaurus in SKOS format (XML or RDF extensions) from your local hard drive
 * From URL - provide a link to a compatible thesaurus online
 * New thesaurus - build one from scratch in Geonetwork
 
-**Category**
+For more information on how to create or manage thesauri please refer to the 
+`official GeoNetwork documentation <https://www.geonetwork-opensource.org/manuals/4.0.x/en/administrator-guide/managing-classification-systems/managing-thesaurus.html>__`.
+
+Category
+--------
 
 Login in as an administrator, and visit Admin Console -> Classification systems -> Category
 
@@ -29,10 +48,7 @@ for the language(s) being used- commonly this will be English.
 .. important::
     Changing the **Identifier** value of a category will not change the wording associated with it in the catalog.
 
-
 |Category page|
-
-Further documentation can be found at https://geonetwork-opensource.org/manuals/4.0.x/en/administrator-guide/managing-classification-systems/index.html
 
 .. |Thesaurus page| image:: media/thesauruspage.png
     :alt: Thesaurus settings page in GeoNetwork
