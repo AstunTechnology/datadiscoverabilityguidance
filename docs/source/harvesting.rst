@@ -28,8 +28,9 @@ Directory harvesting
 This option allows users to harvest records from the same server that runs GeoNetwork. 
 
 .. important::
-    If you are running GeoNetwork in a dockerised manner you will need to map the local directory to a volume and the path will become the mapped volume path.
-    For example if the docker mapping is ``./harvester-test:/var/lib/jetty/webapps/geonetwork/harvester-test`` then the path that the harvester needs to be pointed at has to be ``/var/lib/jetty/webapps/geonetwork/harvester-test`` 
+    If you are running GeoNetwork in a dockerised setup you will need to map the local directory to a volume and the path will become the mapped volume path.
+    For example if the docker mapping is ``./harvester-test:/var/lib/jetty/webapps/geonetwork/harvester-test``, 
+    then the path that the harvester needs to be pointed at has to be ``/var/lib/jetty/webapps/geonetwork/harvester-test`` 
 
 .. figure:: media/directoryharvesting.png
     :alt: GeoNetwork showing an example configuration for Directory harvesting
@@ -38,6 +39,7 @@ This option allows users to harvest records from the same server that runs GeoNe
 
 
 The main configuration options for a directory harvest are:
+
 * Node name and logo- this is the name of the harvester and a logo
 
     * **Note:** in order to be able to associate a logo to the harvester, it needs to be pre-loaded into the catalog. This can be done in Admin console > Settings > Logo

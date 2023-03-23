@@ -13,7 +13,7 @@ You can use these categories to separate records into groups, without changing t
 Categories can also be used to filter search results, or limit the output of a custom CSW endpoint.
 
 For further information on managing the classification systems please refer to the 
-`official GeoNetwork documentation <https://www.geonetwork-opensource.org/manuals/4.0.x/en/administrator-guide/managing-classification-systems/index.html#>__`.
+`official GeoNetwork documentation <https://www.geonetwork-opensource.org/manuals/4.0.x/en/administrator-guide/managing-classification-systems/index.html#>`__.
 
 Thesaurus
 ---------
@@ -32,7 +32,7 @@ It is possible to add additional thesauri by clicking the **+Add thesaurus** but
 * New thesaurus - build one from scratch in Geonetwork
 
 For more information on how to create or manage thesauri please refer to the 
-`official GeoNetwork documentation <https://www.geonetwork-opensource.org/manuals/4.0.x/en/administrator-guide/managing-classification-systems/managing-thesaurus.html>__`.
+`official GeoNetwork documentation <https://www.geonetwork-opensource.org/manuals/4.0.x/en/administrator-guide/managing-classification-systems/managing-thesaurus.html>`__.
 
 Category
 --------
