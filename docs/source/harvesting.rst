@@ -1,9 +1,9 @@
 Harvesting
-----------
+==========
 
 This section outlines the options available for harvesting spatial and non-spatial metadata from various endpoints.
 
-To set up a new harvester in GeoNetwork 4.x login as an Administrator and go to Admin console > Harvesting > Catalog harvesters
+To set up a new harvester in GeoNetwork 4.2.x login as an Administrator and go to Admin console > Harvesting > Catalog harvesters
 
 To add a new harvester click on the **Harvest from** dropdown. The available sources are:
 
@@ -22,7 +22,8 @@ To add a new harvester click on the **Harvest from** dropdown. The available sou
 
 |Harvester dropdown|
 
-**Directory harvesting**
+Directory harvesting
+--------------------
 
 This option allows users to harvest records from the same server that runs GeoNetwork. 
 
@@ -62,7 +63,8 @@ The main configuration options for a directory harvest are:
 
 |Harvester records discrepancy|
 
-**Simple URL harvesting**
+Simple URL harvesting
+---------------------
 
 This option allows users to harvest records from various enpoints like DCAT/rdf or JSON (ESRI).
 
