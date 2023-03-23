@@ -63,8 +63,7 @@ A feature catalog describes the data model of the dataset with the list of table
 
 Feature catalogs can be described:
 
-* as a document (e.g. PDF or CSV) and linked to the metadata record 
-(see `Linking a document <https://geonetwork-opensource.org/manuals/4.0.x/en/user-guide/associating-resources/linking-online-resources.html#linking-a-document>`__)
+* as a document (e.g. PDF or CSV) and linked to the metadata record (see `Linking a document <https://geonetwork-opensource.org/manuals/4.0.x/en/user-guide/associating-resources/linking-online-resources.html#linking-a-document>`__)
 * as a record and described using the ISO19115-3 standard (replacing ISO19110)
 
 .. warning::
