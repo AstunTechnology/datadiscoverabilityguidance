@@ -28,12 +28,13 @@ The Government's guidance on a `tabular data standard  <https://www.gov.uk/gover
 Creating a metadata record
 --------------------------
 
-Log into GeoNetwork as a user with at least Editor priviliges or higher, and go to the Contribute Tab. Choose **Add a new record** and then select **Non geographic dataset** from the list on the left. Assuming you have followed the `configuration instructions <configuration.html>`__ you should be offered the template **Template for metadata in ISO19139 non-spatial format**. Select that by clicking it, then choose the group you wish to create the record in, and finally click the green **+Create** button.
+Log into GeoNetwork as a user with at least Editor priviliges or higher, and go to the Contribute Tab. 
+Choose **Add a new record** and then select **Non geographic dataset** from the list on the left. 
+Assuming you have followed the `configuration instructions <configuration.html>`__ you should be offered the template **Template for metadata in ISO19139 non-spatial format**. 
+Select that by clicking it, then choose the group you wish to create the record in, and finally click the green **+Create** button.
+Fill in all the fields shown in the default non-spatial view.
 
 |Create a non-spatial record|
-
-
-* Fill in all the fields shown in the default non-spatial view
 
 Uploading your dataset
 ----------------------
