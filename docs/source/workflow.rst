@@ -82,17 +82,13 @@ Feature catalogs can be described:
 
 If the steps above have been successful you should see your linked Feature Catalog in the **Associated resources** panel on the right-hand side. Remember to save the changes before closing the window using the buttons at the top of the page.
 
-|Linked feature catalog|
+.. figure:: media/linkedfeaturecat.png
+	:alt: Associated resources panel showing a linked feature catalog
+
+	Associated resources panel showing a linked feature catalog
 
 
 .. |Create a non-spatial record| image:: media/createnonspatial.png
 	:alt: Create a non-spatial record
 .. |Attach file to record| image:: media/attachfile.png
 	:alt: Attach file to record
-.. |Associated resources panel| 
-
-
-.. |Linked feature catalog| figure:: media/linkedfeaturecat.png
-	:alt: Associated resources panel showing a linked feature catalog
-
-	Associated resources panel showing a linked feature catalog
