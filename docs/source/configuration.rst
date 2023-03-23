@@ -1,9 +1,10 @@
 Configuration
 =============
 
-You will need to change a number of settings in the administrator panel to get best use out of GeoNetwork. Login in as an administrator, and visit Admin Console -> Settings.
+You will need to change a number of settings in the administrator panel to get best use out of GeoNetwork. Login in as an administrator, and visit Admin Console > **Settings**.
 
-In the main **System Settings** tab, we recommend making changes to the following sections. Note that there are many other options that you can also change, see `the official documentation <https://www.geonetwork-opensource.org/manuals/trunk/en/administrator-guide/configuring-the-catalog/index.html>`__ for more information:
+In the main **Settings** tab, we recommend making changes to the following sections. 
+Note that there are many other options that you can also change, see `the official documentation <https://www.geonetwork-opensource.org/manuals/4.0.x/en/administrator-guide/configuring-the-catalog/index.html>`__ for more information:
 
 **Catalog Description**
 
@@ -42,7 +43,7 @@ To test, save your changes and then click the **Test mail configuration** button
 
 **INSPIRE Directive configuration**
 
-* Click the **INSPIRE** option to enable the ability to display records by INSPIRE theme on the home page. Ensure you have the INSPIRE thesaurus installed (see `the page on classification systems <classificationsystems.html>`__ for details)
+* Click the **INSPIRE** option to enable the ability to display records by INSPIRE theme on the home page. Ensure you have the INSPIRE thesaurus installed (see the page on `classification systems <classificationsystems.html>`__ for details)
 * Click the **INSPIRE search panel** option.
 
 **Metadata configuration**
